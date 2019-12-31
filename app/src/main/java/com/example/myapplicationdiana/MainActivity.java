@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, Main2Activity.class );
         startActivity(i);
     }
+    public void registro(){
+
+    }
 
 }
